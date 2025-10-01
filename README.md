@@ -1,16 +1,23 @@
-## Hi there 👋
-
-<!--
-**03hpride/03hpride** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hayden Pride ![Hayden Pride Photo]("C:\Users\hayde\OneDrive\Pictures\LinkedIn.jpg")
+---
+## Biography
+> My name is Hayden Pride. I am currently a senior at Montana Technological University, pursuing a bachelors degree in software engineering. I am originally from Arizona and decided to come to Montana Tech to compete in both track and field, and golf.
+---
+## Education
+#### Apache Junction High School 
+##### High School Diploma
+##### August 2018 - May 2022
+#### East Valley Institute of Technology
+##### Ceritficate in Precision Machining Technology
+##### August 2021 - May 2022
+#### Montana Technological University
+##### Bachelors of Science in Software Engineering
+##### August 2022 - May 2026 (Predicted)
+---
+## Skills
+- C++
+- Python
+- JavaScript
+- GitHub
+- Microsoft (Word, Excel, Paint, etc.)
+- Adobe Acrobat and Photoshop
