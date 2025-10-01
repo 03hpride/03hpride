@@ -1,4 +1,4 @@
-# Hayden Pride ![Hayden Pride]("https://github.com/03hpride/03hpride/blob/main/LinkedIn.jpg")
+# Hayden Pride ![Hayden Pride](./LinkedIn.jpg)
 ---
 ## Biography
 > My name is Hayden Pride. I am currently a senior at Montana Technological University, pursuing a bachelors degree in software engineering. I am originally from Arizona and decided to come to Montana Tech to compete in both track and field, and golf.
